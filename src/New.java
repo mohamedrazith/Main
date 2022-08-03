@@ -9,6 +9,8 @@ public class New {
 		games.add("Guitar Hero");
 		games.add("Monkey Ball");
 		games.add("BGMI");
+		games.add("pubg or free fire");
+		games.add(" saiken");
 
 		System.out.println(games);
 
