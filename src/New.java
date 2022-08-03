@@ -13,6 +13,7 @@ public class New {
 		games.add(" saiken");
 		games.add( "Naruto and Onepiece");
 		games.add(" for Test purposes we add the god hand and god of war");
+		games.add("we develop new tset game called subway surfes");
 
 		System.out.println(games);
 
