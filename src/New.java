@@ -8,6 +8,7 @@ public class New {
 		games.add("Call of Duty");
 		games.add("Guitar Hero");
 		games.add("Monkey Ball");
+		games.add("BGMI");
 
 		System.out.println(games);
 
