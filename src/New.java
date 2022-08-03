@@ -14,6 +14,8 @@ public class New {
 		games.add( "Naruto and Onepiece");
 		games.add(" for Test purposes we add the god hand and god of war");
 		games.add("we develop new tset game called subway surfes");
+		games.add("Final game temple run 2");
+		games.add("another");
 
 		System.out.println(games);
 
