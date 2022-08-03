@@ -11,6 +11,7 @@ public class New {
 		games.add("BGMI");
 		games.add("pubg or free fire");
 		games.add(" saiken");
+		games.add( "Naruto and Onepiece");
 
 		System.out.println(games);
 
