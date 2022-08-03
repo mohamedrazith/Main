@@ -12,6 +12,7 @@ public class New {
 		games.add("pubg or free fire");
 		games.add(" saiken");
 		games.add( "Naruto and Onepiece");
+		games.add(" for Test purposes we add the god hand and god of war");
 
 		System.out.println(games);
 
